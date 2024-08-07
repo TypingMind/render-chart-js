@@ -5,6 +5,7 @@
     "iconURL": "https://raw.githubusercontent.com/TypingMind/plugin-render-chart/main/icon.png",
     "openaiSpec": {
         "name": "render_chart",
+        "strict": true,
         "parameters": {
             "type": "object",
             "required": [
